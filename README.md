@@ -1,2 +1,7 @@
-## Welcome to my Profil
-https://img.shields.io/badge/any_text-you_like-blue
+
+GET /badge/:badgeContent
+badgeContent — path
+HTML
+Copy
+![Static Badge](https://img.shields.io/badge/HTML)
+
