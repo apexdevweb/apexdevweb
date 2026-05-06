@@ -1,5 +1,4 @@
-<h1 style="text-align: center;">WELCOME TO MY PROFIL, i'm a web developper, i use different languages ​​and Framework for making different web app.</h1>
-![Static Badge](https://img.shields.io/badge/HTML5-red)
+##WELCOME TO MY PROFIL, i'm a web developper, i use different languages ​​and Framework for making different web app.
 ![Static Badge](https://img.shields.io/badge/CSS3-orange)
 ![Static Badge](https://img.shields.io/badge/SASS-pink)
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-yellow)
