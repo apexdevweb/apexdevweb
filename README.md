@@ -1,6 +1,11 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-red)
 ![Static Badge](https://img.shields.io/badge/CSS3-orange)
+![Static Badge](https://img.shields.io/badge/SASS-pink)
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-yellow)
+![Static Badge](https://img.shields.io/badge/PHP-%232B7FFF)
+![Static Badge](https://img.shields.io/badge/MySQL-%2351A2FF)
+
+
 
 
 
