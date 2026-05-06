@@ -1,12 +1,14 @@
 ## Welcome to my Profil
-<!-- Front-end -->
-<img src="https://shields.io" alt="HTML5">
-<img src="https://shields.io" alt="CSS3">
-<img src="https://shields.io" alt="Sass">
-<img src="https://shields.io" alt="JavaScript">
+<p align="left">
+  <!-- Front-end -->
+  <img alt="HTML5" src="https://shields.io">
+  <img alt="CSS3" src="https://shields.io">
+  <img alt="Sass" src="https://shields.io">
+  <img alt="JavaScript" src="https://shields.io">
 
-<!-- Back-end & BDD -->
-<img src="https://shields.io" alt="PHP">
-<img src="https://shields.io" alt="MySQL">
-<img src="https://shields.io" alt="Python">
-<img src="https://shields.io" alt="Rust">
+  <!-- Back-end & BDD -->
+  <img alt="PHP" src="https://shields.io">
+  <img alt="MySQL" src="https://shields.io">
+  <img alt="Python" src="https://shields.io">
+  <img alt="Rust" src="https://shields.io">
+</p>
