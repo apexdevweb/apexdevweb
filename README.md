@@ -2,7 +2,7 @@
 
 ## WELCOME TO MY PROFIL
 i'm a web developper, i use different languages ​​and Framework for making different web app.
-
+<div style="display:flex;flex-flow:row nowrap;align-item:center;justify-content:space-evenly;">
 ![Static Badge](https://img.shields.io/badge/HTML5-%23F54927)
 ![Static Badge](https://img.shields.io/badge/CSS3-orange)
 ![Static Badge](https://img.shields.io/badge/SASS-pink)
@@ -11,6 +11,7 @@ i'm a web developper, i use different languages ​​and Framework for making d
 ![Static Badge](https://img.shields.io/badge/MySQL-%2351A2FF)
 ![Static Badge](https://img.shields.io/badge/PYTHON-%23BEDBFF)
 ![Static Badge](https://img.shields.io/badge/RUST-%23FF692A)
+</div>
 
 </div>
 
